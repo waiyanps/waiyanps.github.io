@@ -1,0 +1,24 @@
+
+---
+layout: post
+title:  "Managing files from the command line (RHEL9)"
+subtitle: "Copy, move, delete စတာတွေကိူ သုံးပြီး file တွေကို ကောင်းကောင်း organize လုပ်နိုင်ဖို့"
+tags: [sysadmin, linux]
+---
+
+Goal - Bash shell ထဲကနေ ပြီးတော့ file တွေကို copy(cp), move(mv), delete, organize လုပ်နိုင်ဖို့
+Objectives - File system hierarchy အောက်မှာ linux က file တွေကိုဘယ်လို organize လုပ်လည်း
+
+![ mount ](/img/mount/1.png)
+
+```bash
+
+```
+
+
+
+
+
+
+
+
